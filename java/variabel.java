@@ -5,7 +5,7 @@ public class variabel {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Assalamu’alaikum");
+        System.out.println("Assalamu'alaikum");
         System.out.println("Izinkan saya memperkenalkan diri\n");
 
         System.out.print("Nama Lengkap            : ");
@@ -27,7 +27,7 @@ public class variabel {
         String penghasilan = input.nextLine();
 
         System.out.println("\n=============================");
-        System.out.println("Assalamu’alaikum");
+        System.out.println("Assalamu'alaikum");
         System.out.println("Izinkan saya memperkenalkan diri");
         System.out.println("Nama Lengkap            : " + nama);
         System.out.println("Tempat & Tanggal Lahir  : " + ttl);
